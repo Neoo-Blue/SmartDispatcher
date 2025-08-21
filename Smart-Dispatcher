@@ -1,6 +1,6 @@
 """
 title: Smart Dispatcher
-author: YourName
+author: Neoo-Blue
 version: 4.18
 description: Automatically routes and executes tasks with the most appropriate AI model (reliability-first) - with failover, greeting rules, expanded categories, token/difficulty-aware selection, robust JSON parsing for classification, and duplicate-header prevention.
 """
